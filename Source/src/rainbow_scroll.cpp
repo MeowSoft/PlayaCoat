@@ -1,4 +1,4 @@
-#include "random.h"
+#include "rainbow_scroll.h"
 
 static uint32_t* buffer;
 
@@ -32,14 +32,14 @@ static void show(OctoWS2811 leds) {
     leds.show();
 }
 
-void random_setup(int displayX, int displayY) {
+void rainbow_scroll_setup(int displayX, int displayY) {
     _displayX = displayX;
     _displayY = displayY;
     _displaySize = displayX * displayY;
     buffer = (uint32_t*) malloc(_displaySize * 4);
 }
 
-void random_loop(OctoWS2811 leds) {
+void rainbow_scroll_loop(OctoWS2811 leds) {
     for (int x = 0; x < _displaySize; x++) {
         buffer[x] = cappedRand();
     }

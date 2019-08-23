@@ -2,5 +2,9 @@
     "terminal.integrated.env.osx": {
         "PATH": "/Users/chris/.platformio/penv/bin:/Users/chris/.platformio/penv:/usr/local/git/libexec/git-core:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Users/chris/Library/Android/sdk/tools:/Users/chris/Library/Android/sdk/platform-tools:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/opt/X11/bin:~/.dotnet/tools:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
         "PLATFORMIO_CALLER": "vscode"
+    },
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/chris/.platformio/penv/bin:/home/chris/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin",
+        "PLATFORMIO_CALLER": "vscode"
     }
 }
