@@ -1,7 +1,7 @@
 
 #include "test2.h"
 
-#define USE_TEST_2
+//#define USE_TEST_2
 #ifdef USE_TEST_2
 
 #include <OctoWS2811.h>
