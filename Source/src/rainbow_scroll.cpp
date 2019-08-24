@@ -1,47 +1,31 @@
 #include "rainbow_scroll.h"
+#include <Arduino.h>
 
-static uint32_t* buffer;
+#define R 0x00ff0000
+#define O 0x00aa5500
+#define Y 0x007f7f00
+#define G 0x0000ff00
+#define B 0x000000ff
+#define I 0x005500aa
+#define V 0x007f007f
 
-static int _displayX;
-static int _displayY;
-static int _displaySize;
-
-static uint32_t cappedRand() {
-
-    uint32_t rand = random(0, 0x00ffffff);
-
-    int sum = 
-        (rand & 0xff) +
-        ((rand >> 8) & 0xff) + 
-        ((rand >> 16) & 0xff);
-
-    int diff = sum - 256;
-
-    if (diff < 0) return rand;
-
-    for (int x = (diff / 3); x > 0; x--) {
-        rand -= 0x00010101;
+void rainbow_scroll_setup(uint32_t** buffer, int width, int height) {
+    uint32_t colors[] = { R, O, Y, G ,B, I, V };
+    for (int y = 0; y < height; y++) {
+        for (int x = 0; x < width; x++) {
+            uint32_t c = colors[(x + y) % 7];
+            // Serial.printf("x: %d, y: %d c: %x\r\n", x, y, c);
+            buffer[x][y] = c;
+        }
     }
-    return rand;
 }
 
-static void show(OctoWS2811 leds) {
-    for (int x = 0; x < _displaySize; x++) {
-        leds.setPixel(x, buffer[x]);
+void rainbow_scroll_loop(uint32_t** buffer, int width, int height) {
+    for (int y = 0; y < height; y++) {
+        uint32_t tmp = buffer[width - 1][y];
+        for (int x = 0; x < (width - 1); x++) {
+            buffer[x + 1][y] = buffer[x][y];
+        }
+        buffer[0][y] = tmp;
     }
-    leds.show();
-}
-
-void rainbow_scroll_setup(int displayX, int displayY) {
-    _displayX = displayX;
-    _displayY = displayY;
-    _displaySize = displayX * displayY;
-    buffer = (uint32_t*) malloc(_displaySize * 4);
-}
-
-void rainbow_scroll_loop(OctoWS2811 leds) {
-    for (int x = 0; x < _displaySize; x++) {
-        buffer[x] = cappedRand();
-    }
-    show(leds);
 }
