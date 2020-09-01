@@ -105,10 +105,10 @@ void pushPixelData(uint32_t** buffer) {
 void setup() {
 
     // Init serial.
-    #ifdef SERIAL
-    Serial.begin(9600);
-    while (!Serial) {;}
-    #endif
+    // #ifdef SERIAL
+    // Serial.begin(9600);
+    // while (!Serial) {;}
+    // #endif
 
     // Init pixel buffer.
     for (int x = 0; x < BUFFER_WIDTH; x++) {
