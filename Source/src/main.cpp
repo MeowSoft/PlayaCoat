@@ -4,6 +4,9 @@
 #include "random.h"
 #include "rainbow_scroll.h"
 #include "rainbow_rand.h"
+#include "disp.h"
+#include "leds.h"
+#include "buttons.h"
 
 // #define SERIAL
 // #define RANDOM
@@ -102,6 +105,16 @@ void pushPixelData(uint32_t** buffer) {
     leds.show();
 }
 
+void onLeftPressedListener() {
+    static bool toggle = false;
+    toggle = !toggle;
+    if (toggle) {
+        ledsOn();
+    } else {
+        ledsOff();
+    }
+}
+
 void setup() {
 
     // Init serial.
@@ -109,6 +122,12 @@ void setup() {
     // Serial.begin(9600);
     // while (!Serial) {;}
     // #endif
+
+    buttonsSetUp();
+    setOnLeftPressedListener(onLeftPressedListener);
+    
+ledsSetUp();
+    disp_setup();
 
     // Init pixel buffer.
     for (int x = 0; x < BUFFER_WIDTH; x++) {
@@ -140,6 +159,8 @@ void setup() {
 }
 
 void loop() {
+
+    disp_loop();
 
     // Blink LED.
     digitalWrite(LED_BUILTIN, ledState);

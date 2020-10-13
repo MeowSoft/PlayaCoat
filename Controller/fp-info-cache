@@ -1,0 +1,1604 @@
+334698849023467
+MyLib_Capacitors-PTH-Ceramic
+2.54mmx3mm_Upright
+Capacitor; Ceramic disc; PTH; 2.54mm lead spacing x 3mm diameter; Upright;
+
+0
+2
+2
+MyLib_Capacitors-PTH-Ceramic
+5mmx9mm_Upright
+Capacitor; Ceramic disc; PTH; 5mm lead spacing x 9mm diameter; Upright;
+
+0
+2
+2
+MyLib_Capacitors-PTH-Electrolytic
+5.08mmx13mmx25mm_Radial_Upright
+Capacitor; Electrolytic; PTH; 5.08mm lead spacing x 13mm diameter x 25mm height; Radial upright;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Ceramic
+0603
+Capacitor; Ceramic; SMT 0603;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Ceramic
+0805
+Capacitor; Ceramic; SMT 0805;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Ceramic
+1206
+Capacitor; Ceramic; SMT 1206;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Ceramic
+1210
+Capacitor; Ceramic; SMT 1210;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+4mmx4.5mm
+Capacitor; Electrolytic; SMT; 4mm diameter x 4.5mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+4mmx5.3mm
+Capacitor; Electrolytic; SMT; 4mm diameter x 5.3mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+5mmx4.5mm
+Capacitor; Electrolytic; SMT; 5mm diameter x 4.5mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+5mmx5.3mm
+Capacitor; Electrolytic; SMT; 5mm diameter x 5.3mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+8mmx6.5mm
+Capacitor; Electrolytic; SMT; 8mm diameter x 6.5mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+10mmx7.7mm
+Capacitor; Electrolytic; SMT; 10mm diameter x 7.7mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+10mmx10mm
+Capacitor; Electrolytic; SMT; 10mm diameter x 10mm high;
+
+0
+2
+2
+MyLib_Capacitors-SMT-Electrolytic
+16mmx16.5mm
+Capacitor; Electrolytic; SMT; 16mm diameter x 16.5mm high;
+
+0
+2
+2
+MyLib_Connectors-Molex-MicroFitJr
+43045-0609
+Molex MicroFit Jr 2x3 right angle connector.
+
+0
+8
+8
+MyLib_Connectors-Molex-MicroFitJr
+43650-0212
+Molex MicroFit Jr 1x2 right angle connector.
+
+0
+4
+4
+MyLib_Connectors-Molex-MicroFitJr
+43650-0412
+Molex MicroFit Jr 1x4 right angle connector.
+
+0
+6
+6
+MyLib_Connectors-Molex-MicroFitJr
+43650-0612
+Molex MicroFit Jr 1x6 right angle connector.
+
+0
+8
+8
+MyLib_Connectors-Molex-MiniFitJr
+39-30-1040
+Molex MiniFit Jr 2x2 right angle connector with snap in pegs.
+
+0
+4
+4
+MyLib_Connectors-Molex-MiniFitJr
+39-30-1060
+Molex MiniFit Jr 2x3 right angle connector with snap in pegs.
+
+0
+6
+6
+MyLib_Connectors-OnShore-TerminalBlocks-OnePiece
+OSTTC020162
+On shore 2 position screw terminal; 5mm lead spacing;
+
+0
+2
+2
+MyLib_Connectors-OnShore-TerminalBlocks-OnePiece
+OSTTC030162
+On shore 3 position screw terminal; 5mm lead spacing;
+
+0
+3
+3
+MyLib_Connectors-OnShore-TerminalBlocks-OnePiece
+OSTTC030162_SmallCenter
+On shore 3 position screw terminal; 5mm lead sacing; Small center hole;
+
+0
+3
+3
+MyLib_Connectors-Samtec-Standard-ESQ
+ESQ-108-13-T-S
+Samtec 0.1" pitch 1x8 socket strip; ESQ-108-13-T-S;
+
+0
+8
+8
+MyLib_Connectors-Samtec-Standard-SMH
+SMH-102-02-G-S
+Samtec 0.1" pitch 1x2 socket strip. Right angle SMT. SMH-102-02-G-S.
+
+0
+2
+2
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-104-01-T-D
+Samtec 0.1" pitch 2x4 socket strip. SSW-104-01-T-D.
+
+0
+8
+8
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-104-01-T-S
+Samtec 0.1" pitch 1x4 socket strip; SSW-104-01-T-S;
+
+0
+4
+4
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-105-01-T-S
+Samtec 0.1" pitch 1x5 socket strip. SSW-105-01-T-S.
+
+0
+5
+5
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-106-01-T-S
+Samtec 0.1" pitch 1x6 socket strip. SSW-106-01-T-S.
+
+0
+6
+6
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-115-01-T-D
+Samtec 0.1" pitch 2x15 socket strip. SSW-115-01-T-D.
+
+0
+30
+30
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-120-01-T-D
+Samtec 0.1" pitch 2x20 socket strip. SSW-120-01-T-D.
+
+0
+40
+40
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-120-01-T-D_Oval
+Samtec 0.1" pitch 2x20 socket strip. Oval pads. SSW-120-01-T-D.
+
+0
+40
+40
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-145-21-F-S
+Samtec 0.1" pitch 1x45 socket strip. SSW-145-21-F-S.
+
+0
+45
+45
+MyLib_Connectors-Samtec-Standard-SSW
+SSW-145-21-F-S_Oval
+Samtec 0.1" pitch 1x45 socket strip. Oval pads. SSW-145-21-F-S.
+
+0
+45
+45
+MyLib_Connectors-Samtec-Standard-TSM
+TSM-102-01-T-SV
+Samtec 0.1" pitch 1x2 pin strip. Upright  SMT. TSM-102-01-T-SV.
+
+0
+2
+2
+MyLib_Connectors-Samtec-Standard-TSM
+TSM-103-01-T-SH
+Samtec 0.1" pitch 1x6 pin strip. Right angle SMT. TSM-106-01-T-SH.
+
+0
+3
+3
+MyLib_Connectors-Samtec-Standard-TSM
+TSM-106-01-T-SH
+Samtec 0.1" pitch 1x6 pin strip. Right angle SMT. TSM-106-01-T-SH.
+
+0
+6
+6
+MyLib_Connectors-Samtec-Standard-TSS
+TSS-107-01-T-D
+Samtec 0.1" pitch 2x7 pin strip. Shrouded. TSS-107-01-T-D.
+
+0
+14
+14
+MyLib_Connectors-Samtec-Standard-TSS
+TSS-108-01-T-D
+Samtec 0.1" pitch 2x8 pin strip. Shrouded. TSS-108-01-T-D.
+
+0
+16
+16
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-102-07-T-D
+Samtec 0.1" pitch 2x2 pin strip. TSW-102-07-T-D.
+
+0
+4
+4
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-104-07-T-S
+Samtec 0.1" pitch 1x4 pin strip. TSW-104-07-T-S.
+
+0
+4
+4
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-105-07-T-D
+Samtec 0.1" pitch 2x5 pin strip. TSW-105-07-T-D.
+
+0
+10
+10
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-105-07-T-S
+Samtec 0.1" pitch 1x5 pin strip. TSW-105-07-T-S.
+
+0
+5
+5
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-106-06-T-S
+Samtec 0.1" pitch 1x6 pin strip. TSW-106-06-T-S.
+
+0
+6
+6
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-106-07-T-S
+Samtec 0.1" pitch 1x6 pin strip. TSW-106-07-T-S.
+
+0
+6
+6
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-106-22-T-S
+Samtec 0.1" pitch 1x6 pin strip. TSW-106-22-T-S.
+
+0
+6
+6
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-107-07-T-D
+Samtec 0.1" pitch 2x7 pin strip. TSW-107-07-T-D.
+
+0
+14
+14
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-107-07-T-D_Oval
+Samtec 0.1" pitch 2x7 pin strip. Oval pads. TSW-107-07-T-D.
+
+0
+14
+14
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-108-07-T-D
+Samtec 0.1" pitch 2x8 pin strip. TSW-108-07-T-D.
+
+0
+16
+16
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-108-07-T-D_Oval
+Samtec 0.1" pitch 2x8 pin strip. Oval pads. TSW-108-07-T-D.
+
+0
+16
+16
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-108-07-T-S
+Samtec 0.1" pitch 1x8 pin header. TSW-108-07-T-S.
+
+0
+8
+8
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-110-07-T-D
+Samtec 0.1" pitch 2x10 pin strip. TSW-110-07-T-D.
+
+0
+20
+20
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-110-07-T-D_Oval
+Samtec 0.1" pitch 2x10 pin strip. Oval pads. TSW-110-07-T-D.
+
+0
+20
+20
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-111-07-T-S
+Samtec 0.1" pitch 1x11 pin strip. TSW-111-07-T-S.
+
+0
+11
+11
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-112-07-T-D
+Samtec 0.1" pitch 2x12 pin strip. TSW-112-07-T-D.
+
+0
+24
+24
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-112-07-T-D_Oval
+Samtec 0.1" pitch 2x12 pin strip. Oval pads. TSW-112-07-T-D.
+
+0
+24
+24
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-112-07-T-S
+Samtec 0.1" pitch 1x12 pin strip. TSW-112-07-T-S.
+
+0
+12
+12
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-115-07-T-D
+Samtec 0.1" pitch 2x15 pin strip. TSW-112-07-T-D.
+
+0
+30
+30
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-145-07-F-S
+Samtec 0.1" pitch 1x45 pin strip. TSW-145-07-F-S.
+
+0
+45
+45
+MyLib_Connectors-Samtec-Standard-TSW
+TSW-145-07-F-S_Oval
+Samtec 0.1" pitch 1x45 pin strip. Oval pads. TSW-145-07-F-S.
+
+0
+45
+45
+MyLib_Connectors-TEAmp-MTA-100-PTH
+1-640456-0
+TE Amp MTA 100 connector. 10 position upright.
+
+0
+10
+10
+MyLib_Connectors-TEAmp-MTA-100-PTH
+1-640456-2
+TE Amp MTA 100 connector. 12 position upright.
+
+0
+12
+12
+MyLib_Connectors-TEAmp-MTA-100-PTH
+1-640456-8
+TE Amp MTA 100 connector. 18 position upright.
+
+0
+18
+18
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-2
+TE Amp MTA 100 connector. 2 position upright.
+
+0
+2
+2
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-3
+TE Amp MTA 100 connector. 3 position upright.
+
+0
+3
+3
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-4
+TE Amp MTA 100 connector. 4 position upright.
+
+0
+4
+4
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-5
+TE Amp MTA 100 connector. 5 position upright.
+
+0
+5
+5
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-6
+TE Amp MTA 100 connector. 6 position upright.
+
+0
+6
+6
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-7
+TE Amp MTA 100 connector. 7 position upright.
+
+0
+7
+7
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-8
+TE Amp MTA 100 connector. 8 position upright.
+
+0
+8
+8
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640456-9
+TE Amp MTA 100 connector. 9 position upright.
+
+0
+9
+9
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640457-2
+TE Amp MTA 100 connector. 3 position right angle.
+
+0
+2
+2
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640457-3
+TE Amp MTA 100 connector. 3 position right angle.
+
+0
+3
+3
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640457-4
+TE Amp MTA 100 connector. 4 position right angle.
+
+0
+4
+4
+MyLib_Connectors-TEAmp-MTA-100-PTH
+640457-5
+TE Amp MTA 100 connector. 5 position right angle.
+
+0
+5
+5
+MyLib_Connectors-TEAmp-MTA-100-SMT
+3-647166-3
+TE Amp MTA 100 connector. 3 position upright SMT.
+
+0
+3
+3
+MyLib_Connectors-TEAmp-MTA-100-SMT
+3-647166-4
+TE Amp MTA 100 connector. 4 position upright SMT.
+
+0
+4
+4
+MyLib_Connectors-TEAmp-MTA-156-PTH
+640445-2
+TE Amp MTA 156 connector. 2 position upright.
+
+0
+2
+2
+MyLib_Connectors-TEAmp-MTA-156-PTH
+640445-6
+TE Amp MTA 156 connector. 6 position upright.
+
+0
+6
+6
+MyLib_Connectors-TEAmp-MTA-156-PTH
+640445-7
+TE Amp MTA 156 connector. 7 position upright.
+
+0
+7
+7
+MyLib_Connectors-TEAmp-MTA-156-PTH
+640445-8
+TE Amp MTA 156 connector. 8 position upright.
+
+0
+8
+8
+MyLib_Connectors-Various-D-Sub
+NorComp_172-009-142R001
+NorComp 9 pin D-Sub connector. No hardware. Long tail pins.
+
+0
+11
+10
+MyLib_Connectors-Various-Other
+CUI_PJ-102-AH
+CUI 2mm x 6.5mm Barrel Jack
+
+0
+3
+3
+MyLib_Connectors-Various-Other
+FCI_68016
+
+Generic 0.1" right angle 1x6 pin header.
+0
+6
+6
+MyLib_Connectors-Various-Other
+FCI_10018783-10203TLF
+PCIe x8 card edge socket.
+
+0
+164
+164
+MyLib_Connectors-Various-Other
+Keystone_5000
+Keystone 5000 series test point hook.
+
+0
+1
+1
+MyLib_Connectors-Various-Other
+Keystone_7693
+Keystone PN 7693. Screw terminal for #6 ring / fork terminal.
+
+0
+4
+1
+MyLib_Connectors-Various-Other
+Molex_0197054201
+Molex PCB mount quick disconnect tab. Upright.
+
+0
+2
+1
+MyLib_Connectors-Various-Other
+Molex_0197134001
+Molex PCB mount quick disconnect tab. Right angle.
+
+0
+2
+1
+MyLib_Connectors-Various-Other
+Pulse_J00-0065NL
+Pulse engineering RJ-45 jack with integrated magnetics and LEDs.
+
+0
+16
+13
+MyLib_Connectors-Various-Other
+TE-Connectivity_3-1612163-3
+PCIe x8 card edge socket.
+
+0
+98
+98
+MyLib_Connectors-Various-Other
+TE-Connectivity_2041021-3
+TE Connectivity SMT SD card socket with positioning pegs.
+
+0
+17
+14
+MyLib_Connectors-Various-Other
+TRP-Connector_5-6605758-1
+TRP Connector (formerly TE connectivity) RJ-45 jack with integrated magnetics and LEDs.
+
+0
+16
+13
+MyLib_Connectors-Various-USB
+Amphenol_UE27AC54100
+Amhenol USB A socket. Right angle.
+
+0
+6
+6
+MyLib_Connectors-Various-USB
+CUI_UJ2-AH-4-TH
+CUI USB A socket.
+
+0
+6
+6
+MyLib_Connectors-Various-USB
+GCT_USB3150-30
+GCT USB Micro B plug.
+
+0
+13
+7
+MyLib_Connectors-Various-USB
+Global-Connector_USB2066-05-RBHM-15-STB-00-00-A
+Global Connector USB Mini B socket.
+
+0
+9
+6
+MyLib_Connectors-Various-USB
+Multicomp_MC32595
+Multicomp USB A socket. Upright.
+
+0
+6
+6
+MyLib_Diodes-PTH
+DO35
+DO35 diode package. Horizontal model.
+
+0
+2
+2
+MyLib_Diodes-SMT
+DO-214AA
+SMT  DO-214AA diode package
+
+0
+2
+2
+MyLib_Diodes-SMT
+DO-214AC
+SMT DO-214AC diode package.
+
+0
+2
+2
+MyLib_Diodes-SMT
+DO-219AB
+SMT DO-219AB diode package.
+
+0
+2
+2
+MyLib_Diodes-SMT
+MicroMELF
+SMT micro MELF diode package.
+
+0
+2
+2
+MyLib_Diodes-SMT
+MiniMELF
+SMT mini MELF diode package.
+
+0
+2
+2
+MyLib_Diodes-SMT
+SOD-123
+SMT SOD-123 diode package.
+
+0
+2
+2
+MyLib_Diodes-SMT
+SOD-323
+SMT SOD-323 diode package.
+
+0
+2
+2
+MyLib_ICs-PTH
+DIP-8-300
+DIP 8 through hole IC package.
+
+0
+8
+8
+MyLib_ICs-PTH
+DIP-8-300_Socket
+DIP 8 through hole IC package. Chip in socket model.
+
+0
+8
+8
+MyLib_ICs-PTH
+DIP-24-600_Socket
+DIP 24 wide through hole IC package. Chip in socket model.
+
+0
+24
+24
+MyLib_ICs-PTH
+DIP-24-600_Socket_Oval
+DIP 24 wide through hole IC package. Oval pads. Chip in socket model.
+
+0
+24
+24
+MyLib_ICs-PTH
+DIP-40-600_Socket
+DIP 40 wide through hole IC package. Chip in socket model.
+
+0
+40
+40
+MyLib_ICs-PTH
+DIP-40-600_Socket_Oval
+DIP 40 wide through hole IC package. Oval pads. Chip in socket model.
+
+0
+40
+40
+MyLib_ICs-PTH
+Maxim_DS12887_Socket
+Maxim DS12887 RTC. Chip in socket model.
+
+0
+24
+24
+MyLib_ICs-PTH
+Maxim_DS12887_Socket_Oval
+Maxim DS12887 RTC. Oval pads. Chip in socket model.
+
+0
+24
+24
+MyLib_ICs-SMT
+DFN6-3x3
+DFN 6 pin 3mm x 3mm IC package.
+
+0
+13
+7
+MyLib_ICs-SMT
+DIP-6
+6 pin SMT DIP IC package.
+
+0
+6
+6
+MyLib_ICs-SMT
+HTSSOP-28
+28 pin HTSSOP IC package with power pad.
+
+0
+29
+29
+MyLib_ICs-SMT
+LQFP-48-05mm
+48 pin LQFP IC package. 0.5mm pin pitch.
+
+0
+48
+48
+MyLib_ICs-SMT
+LQFP-100-05mm
+100 pin LQFP IC package. 0.5mm pin pitch.
+
+0
+100
+100
+MyLib_ICs-SMT
+LQFP-128-04mm
+128 pin LQFP IC package. 0.4mm pin pitch.
+
+0
+128
+128
+MyLib_ICs-SMT
+MFP-4
+4 pin miniflat IC package.
+
+0
+4
+4
+MyLib_ICs-SMT
+QFN-28
+28 pin QFN IC package.
+
+0
+28
+28
+MyLib_ICs-SMT
+QFN-28-Power
+28 pin QFN IC package with heatsink power pad.
+
+0
+42
+29
+MyLib_ICs-SMT
+SMD-4
+SMT 4 pin IC package.
+
+0
+4
+4
+MyLib_ICs-SMT
+SOIC-8
+8 pin SOIC IC package.
+
+0
+8
+8
+MyLib_ICs-SMT
+SOIC-8-Power
+8 pin SOIC IC package with heat sink pad.
+
+0
+9
+9
+MyLib_ICs-SMT
+SOIC-14
+14 pin SOIC IC package.
+
+0
+14
+14
+MyLib_ICs-SMT
+SOIC-16
+16 pin SOIC IC package.
+
+0
+16
+16
+MyLib_ICs-SMT
+SOIC-20-Wide
+20 pin SOIC wide IC package.
+
+0
+20
+20
+MyLib_ICs-SMT
+SOIC-24
+24 pin SOIC package.
+
+0
+24
+24
+MyLib_ICs-SMT
+SSOP-16
+16 pin SSOP IC package.
+
+0
+16
+16
+MyLib_ICs-SMT
+SSOP-20
+20 pin SSOP IC package.
+
+0
+20
+20
+MyLib_ICs-SMT
+SSOP-28
+28 pin SSOP IC package.
+
+0
+28
+28
+MyLib_ICs-SMT
+TSOP2-54
+54 pin SMT TSOP2 package.
+
+0
+54
+54
+MyLib_ICs-SMT
+TSSOP-14
+14 pin TSSOP IC package.
+
+0
+14
+14
+MyLib_ICs-SMT
+TSSOP-16
+16 pin TSSOP IC package.
+
+0
+16
+16
+MyLib_ICs-SMT
+TSSOP-28
+38 pin TSSOP IC package.
+
+0
+28
+28
+MyLib_ICs-SMT
+TSSOP-38
+38 pin TSSOP IC package.
+
+0
+38
+38
+MyLib_ICs-SMT
+XBGA-121
+121 pin XBGA IC package.
+
+0
+121
+121
+MyLib_Lights-LEDs
+0805_Green
+Green LED. SMT 0805 package. 
+
+0
+2
+2
+MyLib_Lights-LEDs
+5050-4_RGB_LED
+
+SMT 5050 PLCC-4 package
+0
+4
+4
+MyLib_Lights-LEDs
+5050-4_Yellow
+
+SMT PLCC-4 package.
+0
+4
+4
+MyLib_Lights-LEDs
+5050-6_RGB_LED
+
+SMT 5050 PLCC-6 package
+0
+6
+6
+MyLib_Lights-LEDs
+Lumex_SSL-LX3T453GD
+Lumex Triangular LED
+PTH LED 5.0mm
+0
+2
+2
+MyLib_Lights-LEDs
+PLCC-2_Yellow
+Yellow LED. SMT PLCC package.
+
+0
+2
+2
+MyLib_Lights-LEDs
+PLCC-4_Yellow
+
+SMT PLCC-4 package.
+0
+4
+4
+MyLib_Lights-LEDs
+PTH_5.0mm
+
+PTH LED 5.0mm
+0
+2
+2
+MyLib_Magnetics-Transformers
+Hammond_160D24
+Hammond 160D24 transformer.
+
+0
+8
+8
+MyLib_Magnetics-Transformers
+Tamura_3FD-424
+Tamura 3FD-424 transformer.
+
+0
+8
+8
+MyLib_Magnetics-Transformers
+Triad-Magnetics_FS24-045-C2
+Triad magnetics FS24-045-C2 transformer.
+
+0
+8
+8
+MyLib_Mounting_Holes
+No4_Screw_Mount
+0.15" mounting hole for #6 screw.
+
+0
+0
+0
+MyLib_Mounting_Holes
+No6_Screw_Mount
+0.15" mounting hole for #6 screw.
+
+0
+1
+1
+MyLib_Mounting_Holes
+No6_Screw_Mount_Stitched
+0.15" mounting hole for #6 screw with stitching vias
+
+0
+13
+1
+MyLib_Mounting_Holes
+Raspberry_Pi_Zero_Mounting_Holes
+MOunting holes and outline for Raspberry Pi Zero
+
+0
+0
+0
+MyLib_Other-Beepers
+Mallory_MSS5M1
+Beeper for medical applications. Spec: IEC60601-1-8.
+
+0
+4
+4
+MyLib_Other-Beepers
+MuRata_PKB24SPCH3601-B0
+Beeper with integrated driver.
+
+0
+2
+2
+MyLib_Other-Modules
+Adafruit_0.96_OLED_Display
+Adafruit 0.96 Mini OLED Display PCB module.
+
+0
+10
+10
+MyLib_Other-Modules
+Adafruit_Huzzah
+Adafruit Huzzah PCB module.
+
+0
+26
+26
+MyLib_Other-Modules
+MagJack_01
+MagJack PCB module.
+
+0
+18
+12
+MyLib_Other-Modules
+PJRC_Teensy_3.2
+PJRC Teensy 3.2 PCB module.
+
+0
+28
+28
+MyLib_Other-Oscillators
+5mmx3.2mm-SMT
+7mm x 5mm SMT 4 pin crystal package.
+
+0
+2
+2
+MyLib_Other-Oscillators
+7mmx5mm-SMT
+7mm x 5mm SMT 4 pin crystal package.
+
+0
+4
+4
+MyLib_Other-Oscillators
+CM200
+CM200 type SMT 4 pin crystal package.
+
+0
+4
+4
+MyLib_Other-Oscillators
+HC-49-PTH
+HC-49 through hole crystal package.
+
+0
+2
+2
+MyLib_Other-Oscillators
+HC-49-SMT
+HC-49 SMT crystal package.
+
+0
+2
+2
+MyLib_Other-Oscillators
+HC-49U-Upright
+HC-49U through hole crystal package. Upright orientation.
+
+0
+2
+2
+MyLib_Other_Misc
+CUI_V7805-2000
+CUI-V7805-2000 voltage regulator. Upright.
+
+0
+3
+3
+MyLib_Other_Misc
+CUI_V7805-2000R
+CUI-V7805-2000R voltage regulator.
+
+0
+3
+3
+MyLib_Other_Misc
+Honeywell_HIH-4000-Odd
+Honeywell HIH-4000-001, 3, 5 humidity sensor.
+
+0
+3
+3
+MyLib_Other_Misc
+Linx-Technologies_BAT-HLD-001
+SMT CR2025 coin cell holder. Circular center pad.
+
+0
+3
+2
+MyLib_Other_Misc
+Linx-Technologies_BAT-HLD-001_Small-Center-Pads
+SMT CR2025 coin cell holder. Small center pads with no paste and a circular mask relief.
+
+0
+4
+2
+MyLib_Other_Misc
+TT-Electronics_OPB732
+TT-Electronics OPB732 Reflective switch
+
+0
+4
+4
+MyLib_Resistors-PTH-Misc
+Thermistor-Bent-With-Long-Leads
+Thermistor bent with long leads.
+
+0
+2
+2
+MyLib_Resistors-PTH-Misc
+Thermistor-Heater-Combo_Heater
+Thermistor heater combo pad for heater resistor.
+
+0
+1
+1
+MyLib_Resistors-PTH-Misc
+Thermistor-Heater-Combo_Thermistor
+Thermistor heater combo pads for thermistor and model.
+
+0
+2
+2
+MyLib_Resistors-PTH-Networks
+SIP-9_2.54mm
+8 element 9 pin SIP resistor net. 2.54mm pitch.
+
+0
+9
+9
+MyLib_Resistors-PTH-Singles
+0.25W_Horizontal_10.16mm
+1/4 watt through hole resistor. Horizontal.
+
+0
+2
+2
+MyLib_Resistors-PTH-Singles
+0.125W_Horizontal_7.12mm
+1/8 watt through hole resistor. Horizontal.
+
+0
+2
+2
+MyLib_Resistors-PTH-Singles
+0.125W_Horizontal_10.16mm
+1/8 watt through hole resistor. Horizontal.
+
+0
+2
+2
+MyLib_Resistors-PTH-Singles
+2W_Horizontal_15.24mm
+2 watt through hole resistor. Horizontal.
+
+0
+2
+2
+MyLib_Resistors-PTH-Singles
+10W_Horizontal_49mmx10mmx9mm
+10 watt ceramic through hole resistor. Horizontal. 49mm x 10mm x 9mm.
+
+0
+2
+2
+MyLib_Resistors-PTH-Singles
+15W_Horizontal_49mmx12.5mmx11.5mm
+15 watt ceramic through hole resistor. Horizontal. 49mm x 12.5mm x 11.75mm.
+
+0
+2
+2
+MyLib_Resistors-SMT-Potentiometers
+Bourns_3361P
+Bourns 3361P series SMT trimpot. 
+
+0
+3
+3
+MyLib_Resistors-SMT-Potentiometers
+Bourns_3364W
+Bourns 3364W series SMT trimpot. 
+
+0
+3
+3
+MyLib_Resistors-SMT-Singles
+0603
+SMT 0603 resistor.
+
+0
+2
+2
+MyLib_Resistors-SMT-Singles
+0805
+SMT 0805 resistor.
+
+0
+2
+2
+MyLib_Resistors-SMT-Singles
+1206
+SMT 1206 resistor.
+
+0
+2
+2
+MyLib_Resistors-SMT-Singles
+1210
+SMT 1210 resistor.
+
+0
+2
+2
+MyLib_Resistors-SMT-Singles
+1812
+SMT 1812 resistor.
+
+0
+2
+2
+MyLib_Resistors-SMT-Singles
+2010
+SMT 2010 resistor.
+
+0
+2
+2
+MyLib_Switches-Buttons
+Multicomp_MC32831
+Multicomp MC32831 pushbutton. 9.5 mm
+
+0
+4
+4
+MyLib_Switches-Buttons
+Omron_B3F-100x
+Omron B3F-100x pushbutton.
+
+0
+4
+4
+MyLib_Switches-Relays
+Omron_G6K-2G
+Omron G6K-2G subminiature signal relay.
+
+0
+8
+8
+MyLib_Switches-Relays
+Panasonic_ALZ-1xxxx
+Panasonic ALZ-1 series relay.
+
+0
+8
+8
+MyLib_Switches-Relays
+Panasonic_ALZ-5xxxx
+Panasonic ALZ-5 series relay.
+
+0
+6
+6
+MyLib_Switches-Relays
+TE-Connectivity_OJx-xxxxx
+TE Connectivity OJ / OJE series relay.
+
+0
+4
+4
+MyLib_Switches-Slides
+CK-Components_SK-22D01-MG-5-NS
+CK Components 22D01-MG-5-NS slide switch.
+
+0
+8
+7
+MyLib_Transistors-PTH-TO-92
+Upright_Inline_Narrow
+TO-92 package. Narrow inline pin spacing. Upright model.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-92
+Upright_Inline_Wide
+TO-92 package. Wide inline pin spacing. Upright model.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-92
+Upright_Staggered_Narrow
+TO-92 package. Narrow staggered pin spacing. Upright model.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-92
+Upright_Staggered_Wide
+TO-92 package. Wide staggered pin spacing. Upright model.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-92
+Upright_Staggered_Wide_Heavy
+TO-92 package. Wide staggered pin spacing. Heavy pads. Upright model.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-220
+3Pin_Horizontal_Tab-Down_Pins-Staggered
+3 pin TO-220. Horizontal model. Tab facing down with staggered pins.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-220
+3Pin_Horizontal_Tab-Down_Pins-Straight
+3 pin TO-220. Horizontal model. Tab facing down with striaght pins.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-220
+3Pin_Horizontal_Tab-Up_Pins-Staggered
+3 pin TO-220. Horizontal model. Tab facing up with staggered pins.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-220
+3Pin_Horizontal_Tab-Up_Pins-Straight
+3 pin TO-220. Horizontal model. Tab facing up with striaght pins.
+
+0
+3
+3
+MyLib_Transistors-PTH-TO-220
+3Pin_Upright_Pins-Straight
+3 pin TO-220. Upright model with striaght pins.
+
+0
+3
+3
+MyLib_Transistors-SMT
+D2PAK-2
+D2PAK 2 pin package
+
+0
+3
+3
+MyLib_Transistors-SMT
+DPAK-2
+DPAK 2 pin package.
+
+0
+3
+3
+MyLib_Transistors-SMT
+SOT-23-3
+SOT-23 3 pin package.
+
+0
+3
+3
+MyLib_Transistors-SMT
+SOT-23-5
+SOT-23 5 pin package.
+
+0
+5
+5
+MyLib_Transistors-SMT
+SOT-23-6
+SOT-23 5 pin package.
+
+0
+6
+6
+MyLib_Transistors-SMT
+SOT-89
+SOT-89 package.
+
+0
+4
+3
+MyLib_Transistors-SMT
+SOT-223-3
+SOT-223 3 pin package.
+
+0
+4
+3
+MyLib_Transistors-SMT
+TSOP-6
+TSOP 6 pin package.
+
+0
+6
+6
+MyLib_Virtual-Board-Components
+Fiducial_01
+50 mil fiducial marker.
+
+0
+1
+1
+MyLib_Virtual-Board-Components
+ICSP-Pogo-Header
+
+ICSP programming points for pogo pin contacts.
+0
+6
+6
+MyLib_Virtual-Board-Components
+PCIe_x8_Card-Edge
+PCI-Express x8 card edge profile.
+
+0
+98
+98
+MyLib_Virtual-Board-Components
+PCIe_x16_Card-Edge
+PCI-Express x8 card edge profile.
+
+0
+164
+164
+MyLib_Virtual-Board-Components
+Prototyping_Pad_01
+SMT and PTH solderable connection pad for prototyping.
+
+0
+2
+1
+MyLib_Virtual-Board-Components
+Prototyping_Pad_02
+SMT solderable connection pad for prototyping.
+
+0
+1
+1
+MyLib_Virtual-Board-Components
+Prototyping_Pad_03
+SMT solderable connection pad for prototyping.
+
+0
+1
+1
+MyLib_Virtual-Board-Components
+Solder_Jumper_1Way_Small
+1 way solder jumper pads.
+
+0
+2
+2
+MyLib_Virtual-Board-Components
+Solder_Jumper_2Way_Small
+2 way solder jumper pads.
+
+0
+3
+3
+MyLib_Virtual-Board-Components
+Solder_Pad_ThroughHole_45mil
+SMT solderable connection pad for prototyping.
+
+0
+1
+1
+MyLib_Virtual-Board-Components
+Test_Point_PogoPad_01
+50 mil test point pad for a pogo pin.
+
+0
+1
+1
+MyLib_Virtual-Board-Components
+Test_Point_ThroughHole_01
+Through hole test point.
+
+0
+1
+1
+MyLib_Virtual-Graphics
+AMT_Group
+AMTG Logo
+
+0
+0
+0
